@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56ca7056-f05a-43d1-b088-47da41715ce6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Mark-Heavy.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Mark-Heavy.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Mark-Heavy.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Mark-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Mark-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/Mark-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/Shape.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/Triangle_colored.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/Triangle_left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/Triangle_right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/_.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/briefcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/chevron-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/globe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/open-book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/password.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/twitter-logo-silhouette.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/user.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/Bitmap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/evolve.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/evolve6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/feed_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/feed_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/feed_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/hanson.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/main_dark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/main_light.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/mainbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/module_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/showup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/showup6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/slide_1_m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/slide_2_m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/slide_3_m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/talk_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/question.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sass/_difference.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sass/_feed.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sass/_join.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sass/_module.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sass/_modules.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sass/_schedule.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sass/_showup.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sass/_variables.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sass/_videoblock.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sass/style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vcYe6npcAUF2czlA2qEFUBdVaw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\A\Frontend\Udemy\JS Andvanced\Module 3\Source" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56ca7056-f05a-43d1-b088-47da41715ce6" name="Default Changelist" comment="" />
+      <created>1626862941657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626862941657</updated>
+      <workItem from="1626862944584" duration="1018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
