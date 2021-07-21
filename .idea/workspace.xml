@@ -2,78 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56ca7056-f05a-43d1-b088-47da41715ce6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Source.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Mark-Heavy.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Mark-Heavy.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Mark-Heavy.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Mark-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Mark-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/font/Mark-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/Shape.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/Triangle_colored.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/Triangle_left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/Triangle_right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/_.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/briefcase.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/calendar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/chevron-down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/download.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/globe.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/mail.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/menu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/open-book.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/password.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/phone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/plus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/twitter-logo-silhouette.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/user.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/Bitmap.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/evolve.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/evolve6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/feed_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/feed_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/feed_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/hanson.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/main_dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/main_light.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/mainbg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/module_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/showup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/showup6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/slide_1_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/slide_2_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/slide_3_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/talk_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/question.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/_difference.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/_feed.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/_join.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/_module.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/_modules.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/_schedule.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/_showup.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/_variables.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/_videoblock.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sass/style.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +12,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vcYe6npcAUF2czlA2qEFUBdVaw" />
@@ -109,8 +45,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626862941657</updated>
-      <workItem from="1626862944584" duration="1018000" />
+      <workItem from="1626862944584" duration="4461000" />
     </task>
+    <task id="LOCAL-00001" summary="Initiated project">
+      <created>1626864789959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626864789959</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,10 +65,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="slider" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initiated project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initiated project" />
   </component>
 </project>
