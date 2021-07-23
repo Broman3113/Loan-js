@@ -1,5 +1,6 @@
 import MainSlider from "./modules/slider/slider-main";
 import MiniSlider from "./modules/slider/slider-mini";
+import VideoPlayer from "./modules/playVideo";
 
 window.addEventListener("DOMContentLoaded", () => {
     const slider = new MainSlider({btns: '.next', container: '.page'});
