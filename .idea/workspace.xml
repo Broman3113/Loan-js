@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56ca7056-f05a-43d1-b088-47da41715ce6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/modules/difference.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/forms.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +16,7 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="video_player" />
+        <entry key="$PROJECT_DIR$" value="difference_section" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,7 +52,8 @@
       <workItem from="1626896477065" duration="102000" />
       <workItem from="1626897649684" duration="1799000" />
       <workItem from="1626942647199" duration="3446000" />
-      <workItem from="1627216088757" duration="4291000" />
+      <workItem from="1627216088757" duration="4834000" />
+      <workItem from="1627304999021" duration="2969000" />
     </task>
     <task id="LOCAL-00001" summary="Initiated project">
       <created>1626864789959</created>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627049092434</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added difference section">
+      <created>1627222073856</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627222073856</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,7 +107,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="difference_section" />
+                        <option value="forms.js" />
                       </list>
                     </value>
                   </entry>
@@ -118,6 +125,7 @@
     <MESSAGE value="Added main slider" />
     <MESSAGE value="Added popup hanson" />
     <MESSAGE value="Merged branches" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merged branches" />
+    <MESSAGE value="Added difference section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added difference section" />
   </component>
 </project>
