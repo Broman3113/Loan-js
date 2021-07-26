@@ -5086,13 +5086,15 @@ function () {
   function Difference(oldOfficer, newOfficer, items) {
     _classCallCheck(this, Difference);
 
-    this.oldOfficer = document.querySelector(oldOfficer);
-    this.newOfficer = document.querySelector(newOfficer);
-    this.oldOfficer.items = this.oldOfficer.querySelectorAll(items);
-    this.newOfficer.items = this.newOfficer.querySelectorAll(items);
-    this.items = items;
-    this.oldOfficer.counter = 0;
-    this.newOfficer.counter = 0;
+    try {
+      this.oldOfficer = document.querySelector(oldOfficer);
+      this.newOfficer = document.querySelector(newOfficer);
+      this.oldOfficer.items = this.oldOfficer.querySelectorAll(items);
+      this.newOfficer.items = this.newOfficer.querySelectorAll(items);
+      this.items = items;
+      this.oldOfficer.counter = 0;
+      this.newOfficer.counter = 0;
+    } catch (e) {}
   }
 
   _createClass(Difference, [{
@@ -5126,8 +5128,10 @@ function () {
   }, {
     key: "init",
     value: function init() {
-      this.hideItems();
-      this.bindTriggers();
+      try {
+        this.hideItems();
+        this.bindTriggers();
+      } catch (e) {}
     }
   }]);
 
@@ -5531,21 +5535,23 @@ function (_Slider) {
       var _this2 = this;
 
       try {
-        this.hanson = document.querySelector('.hanson');
+        try {
+          this.hanson = document.querySelector('.hanson');
+        } catch (e) {}
+
+        this.btns.forEach(function (item) {
+          item.addEventListener('click', function () {
+            _this2.plusSlides(1);
+          });
+          item.parentNode.previousElementSibling.addEventListener('click', function (e) {
+            e.preventDefault();
+            _this2.slideIndex = 1;
+
+            _this2.showSlides(_this2.slideIndex);
+          });
+        });
+        this.showSlides(this.slideIndex);
       } catch (e) {}
-
-      this.btns.forEach(function (item) {
-        item.addEventListener('click', function () {
-          _this2.plusSlides(1);
-        });
-        item.parentNode.previousElementSibling.addEventListener('click', function (e) {
-          e.preventDefault();
-          _this2.slideIndex = 1;
-
-          _this2.showSlides(_this2.slideIndex);
-        });
-      });
-      this.showSlides(this.slideIndex);
     }
   }]);
 
@@ -5693,15 +5699,17 @@ function (_Slider) {
     value: function init() {
       var _this3 = this;
 
-      this.container.style.cssText = "\n        display: flex;\n        flex-wrap: wrap;\n        overflow: hidden;\n        align-items: flex-start;\n        ";
-      this.bindTriggers();
-      this.styleSlides();
+      try {
+        this.container.style.cssText = "\n        display: flex;\n        flex-wrap: wrap;\n        overflow: hidden;\n        align-items: flex-start;\n        ";
+        this.bindTriggers();
+        this.styleSlides();
 
-      if (this.autoplay) {
-        setInterval(function () {
-          return _this3.nextSlide();
-        }, 5000);
-      }
+        if (this.autoplay) {
+          setInterval(function () {
+            return _this3.nextSlide();
+          }, 5000);
+        }
+      } catch (e) {}
     }
   }]);
 
@@ -5742,7 +5750,11 @@ var Slider = function Slider() {
   _classCallCheck(this, Slider);
 
   this.container = document.querySelector(container);
-  this.slides = this.container.children;
+
+  try {
+    this.slides = this.container.children;
+  } catch (e) {}
+
   this.btns = document.querySelectorAll(btns);
   this.prev = document.querySelector(prev);
   this.next = document.querySelector(next);
