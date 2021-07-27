@@ -3,12 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="56ca7056-f05a-43d1-b088-47da41715ce6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/modules.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/modules.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/difference.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/difference.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/modules/slider/slider-main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/slider/slider-main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/slider/slider-mini.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/slider/slider-mini.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/slider/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/slider/slider.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +18,7 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="difference_section" />
+        <entry key="$PROJECT_DIR$" value="forms.js" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
