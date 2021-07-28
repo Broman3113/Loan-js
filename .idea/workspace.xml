@@ -2,11 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56ca7056-f05a-43d1-b088-47da41715ce6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/js/modules/download.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/showInfo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/css/font.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/font.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/Shape.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/Shape.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/Triangle_colored.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/Triangle_colored.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/Triangle_left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/Triangle_left.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/Triangle_right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/Triangle_right.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/_.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/_.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/arrow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/arrow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/briefcase.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/briefcase.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/calendar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/calendar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/chevron-down.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/chevron-down.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/down.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/down.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/download.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/download.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/facebook.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/facebook.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/globe.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/globe.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/left.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/mail.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/mail.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/menu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/menu.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/password.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/password.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/phone.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/phone.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/plus.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/plus.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/right.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/twitter-logo-silhouette.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/twitter-logo-silhouette.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/icons/user.svg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/icons/user.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/question.php" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/sass/_difference.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/sass/_difference.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/sass/_feed.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/sass/_feed.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/sass/_join.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/sass/_join.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/sass/_module.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/sass/_module.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/sass/_modules.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/sass/_modules.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/sass/_schedule.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/sass/_schedule.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/sass/_showup.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/sass/_showup.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/sass/_variables.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/sass/_variables.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/sass/_videoblock.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/sass/_videoblock.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/sass/style.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/playVideo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/playVideo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +53,7 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="forms.js" />
+        <entry key="$PROJECT_DIR$" value="modules_player" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,6 +91,7 @@
       <workItem from="1626942647199" duration="3446000" />
       <workItem from="1627216088757" duration="4834000" />
       <workItem from="1627304999021" duration="4690000" />
+      <workItem from="1627452146544" duration="3578000" />
     </task>
     <task id="LOCAL-00001" summary="Initiated project">
       <created>1626864789959</created>
@@ -112,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627365420526</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added player support for the second page &quot;Modules&quot;">
+      <created>1627369441313</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627369441313</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +173,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="modules_player" />
+                        <option value="accordion" />
                       </list>
                     </value>
                   </entry>
@@ -151,6 +195,7 @@
     <MESSAGE value="Added forms validation and forms sending to the server" />
     <MESSAGE value="Bugs fixed" />
     <MESSAGE value="Added slider support for the second page &quot;Modules&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added slider support for the second page &quot;Modules&quot;" />
+    <MESSAGE value="Added player support for the second page &quot;Modules&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added player support for the second page &quot;Modules&quot;" />
   </component>
 </project>
