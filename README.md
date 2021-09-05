@@ -5,8 +5,7 @@
     <img src="/github.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Native JavaScript Library</h3>
-
+<h3 align="center">Pure JavaScript project
   <p align="center">
     Explanation in using the project.
     <br />
@@ -43,7 +42,7 @@
 
 ## About The Project
 
-Native JavaScript project that made to improve own skills. Loan-js has comonents, modules, etc.
+Native JavaScript project that made to improve own skills. Loan-js was written in an object-oriented style (OOP) is also has components, modules, etc.
 
 ### Built With
 
